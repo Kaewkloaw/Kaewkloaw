@@ -7,6 +7,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kaewkloaw&icon=0&color=0)](https://visitcount.itsvg.in)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
