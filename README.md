@@ -49,7 +49,7 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/punchaya-chancharoen-97760b292/" target="_blank">
-  <img src="https://img.shields.io/badge/-Let's Connect-%23F06292?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/💼 Let's_Connect_on_LinkedIn-F06292?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <br/><br/>
