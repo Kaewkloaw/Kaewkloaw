@@ -1,4 +1,6 @@
-<h1 align="center">🌸 Hi! I'm Kaewkloaw 🌸</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🌷+Kaewkloaw+is+typing...;🌼+Building+Tech+with+Love+and+Joy!;🌸+Let’s+Grow+Beautiful+Projects+Together!&center=true&width=500&height=45">
+</p>
 <p align="center">🌼 A blooming tech enthusiast who blends code with creativity 💐</p>
 
 ---
@@ -55,7 +57,9 @@
 <br/><br/>
 
 [![](https://visitcount.itsvg.in/api?id=Kaewkloaw&icon=3&color=9)](https://visitcount.itsvg.in)
-
+<p align="center">
+  <img src="https://media.giphy.com/media/10dU7AN7xsi1I4/giphy.gif" width="200" alt="Hello Blossom">
+</p>
 </div>
 
 <!-- 🌷 Proudly planted & grown by แก้วเกล้าคนสวย with tech and petals ✨ -->
