@@ -30,8 +30,6 @@
 
 ![Kaewkloaw's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaewkloaw&theme=rose_pine&hide_border=false&show_icons=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kaewkloaw&theme=rose_pine&hide_border=false)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaewkloaw&layout=compact&theme=rose_pine&hide_border=false)
 
 </div>
