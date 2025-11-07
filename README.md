@@ -44,16 +44,18 @@
 - 🌿 I grow with every project I plant 🌱
 
 ---
-
-- รางวัลรองชนะเลิศอันดับ 2 KBTG showcase & project pitching day
-- รางวัลชมเชย SuperAI innovator 2025
-- เข้ารอบ 9 ทีมสุดท้าย Axtra Mile Hackathon 2025
-- เข้ารอบ 12 ทีมสุดท้าย Krungsri UniVerse X KMITL Hackathon
-- เข้ารอบ 15 ทีมสุดท้าย SCGJWD Next Gen 2025
-- เข้ารอบ 15 ทีมสุดท้าย Makathon Next Gen 2024
-- เข้ารอบ 32 ทีมสุดท้าย GLO Open Innovation Challenge 2025
-- เข้ารอบการแข่งขันระดับภูมิภาคของ Experiential Learning Program #3
-
+## Achievements
+🏆 The Winner, GenAI Hackathon Powered by Mitr Phol Group 2025 
+🥈 2nd Runner-Up, KBTG Showcase & Project Pitching Day 2025
+✨ Honorable Mention,BIG's SEED Talent Camp by BIG C 2025 
+✨ Honorable Mention, SuperAI Innovator 2025 
+Top 9 Finalist, Axtra Mile Hackathon 2025 
+Top 12 Finalist, Krungsri UniVerse X KMITL Hackathon 2025
+Top 15 Finalist, SCGJWD Next Gen 2025 
+Top 15 Finalist, Makathon Next Gen 2024 
+Top 32 Finalist, GLO Open Innovation Challenge 2025 
+Regional Finalist, Experiential Learning Program #2
+Regional Finalist, Experiential Learning Program #3
 ---
 
 ## 🌸 Let’s Bloom Together!
