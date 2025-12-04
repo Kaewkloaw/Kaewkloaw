@@ -28,10 +28,10 @@
 ## Achievements
 - The Winner, GenAI Hackathon Powered by Mitr Phol Group 2025 
 - The 2nd Runner-Up, KBTG Showcase & Project Pitching Day 2025
-- Honorable Mention,BIG's SEED Talent Camp by BIG C 2025 
+- Honorable Mention, BIG's SEED Talent Camp by BIG C 2025
+- Honorable Mention, Krungsri UniVerse X KMITL Hackathon 2025
 - Honorable Mention, SuperAI Innovator 2025 
 - Top 9 Finalist, Axtra Mile Hackathon 2025 
-- Top 12 Finalist, Krungsri UniVerse X KMITL Hackathon 2025
 - Top 15 Finalist, SCGJWD Next Gen 2025 
 - Top 15 Finalist, Makathon Next Gen 2024 
 - Top 32 Finalist, GLO Open Innovation Challenge 2025 
