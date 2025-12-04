@@ -34,7 +34,6 @@
 - Top 9 Finalist, Axtra Mile Hackathon 2025 
 - Top 15 Finalist, SCGJWD Next Gen 2025 
 - Top 15 Finalist, Makathon Next Gen 2024 
-- Top 32 Finalist, GLO Open Innovation Challenge 2025 
 - Regional Finalist, Experiential Learning Program #2
 - Regional Finalist, Experiential Learning Program #3
 ---
