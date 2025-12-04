@@ -25,17 +25,6 @@
 
 ---
 
-## 🌺 GitHub Blooming Stats
-<div align="center">
-
-![Kaewkloaw's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaewkloaw&theme=rose_pine&hide_border=false&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaewkloaw&layout=compact&theme=rose_pine&hide_border=false)
-
-</div>
-
----
-
 ## 🌼 A Bit About Me
 - 👩🏻‍🎓 3rd-year @ KMUTT  
 - 💼 Performance Tester Intern @ KBTG  
