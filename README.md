@@ -25,15 +25,6 @@
 
 ---
 
-## 🌼 A Bit About Me
-- 👩🏻‍🎓 3rd-year @ KMUTT  
-- 💼 Performance Tester Intern @ KBTG  
-- 🎤 TEDxKMUTT 2024 Copywriting Leader  
-- 💖 Passionate in Tech, UX/UI, Innovation & Storytelling  
-- 🌿 I grow with every project I plant 🌱
-
----
-
 ## Achievements
 - The Winner, GenAI Hackathon Powered by Mitr Phol Group 2025 
 - The 2nd Runner-Up, KBTG Showcase & Project Pitching Day 2025
