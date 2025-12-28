@@ -45,8 +45,6 @@
   <img src="https://img.shields.io/badge/💼 Let's_Connect_on_LinkedIn-F06292?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<br/><br/>
-
 [![](https://visitcount.itsvg.in/api?id=Kaewkloaw&icon=3&color=9)](https://visitcount.itsvg.in)
 <p align="center">
   <img src="https://media.giphy.com/media/10dU7AN7xsi1I4/giphy.gif" width="200" alt="Hello Blossom">
