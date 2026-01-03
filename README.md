@@ -3,8 +3,8 @@
 </p>
 <p align="center">🌼 A blooming tech enthusiast who blends code with creativity 💐</p>
 
-## 💐 My Tech Garden 
 <div align="center">
+  <h2 >💐 My Tech Garden</h2>
   
 ![C](https://img.shields.io/badge/C-%23F8BBD0?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%23F48FB1?style=for-the-badge&logo=c%2B%2B&logoColor=white)
