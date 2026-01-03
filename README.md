@@ -3,11 +3,9 @@
 </p>
 <p align="center">🌼 A blooming tech enthusiast who blends code with creativity 💐</p>
 
----
-
-## 💐 My Tech Garden (Tech Stack)
+## 💐 My Tech Garden 
 <div align="center">
-
+  
 ![C](https://img.shields.io/badge/C-%23F8BBD0?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%23F48FB1?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%23F06292?style=for-the-badge&logo=python&logoColor=white)
@@ -23,32 +21,33 @@
 ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-%23EC407A?style=for-the-badge&logo=robotframework&logoColor=white)
 </div>
 
----
+<table align="center">
+  <tr>
+    <td valign="top" width="530">
+      <h3 align="center">🏆 Achievements </h3>
+      <ul>
+        <li>The Winner, GenAI Hackathon Powered by Mitr Phol Group 2025</li>
+        <li>The 2nd Runner-Up, KBTG Showcase & Project Pitching Day 2025</li>
+        <li>Honorable Mention, BIG's SEED Talent Camp by BIG C 2025</li>
+        <li>Honorable Mention, Krungsri UniVerse X KMITL Hackathon 2025</li>
+        <li>Honorable Mention, SuperAI Innovator 2025</li>
+        <li>Top 9 Finalist, Axtra Mile Hackathon 2025</li>
+        <li>Top 15 Finalist, SCGJWD Next Gen 2025</li>
+        <li>Top 15 Finalist, Makathon Next Gen 2024</li>
+        <li>Regional Finalist, Experiential Learning Program #2</li>
+        <li>Regional Finalist, Experiential Learning Program #3</li>
+      </ul>
+    </td>
+    <td valign="top" width="300" align="center">
+      <h3>🌸 Let’s Bloom Together! </h3>
+      <a href="https://www.linkedin.com/in/punchaya-chancharoen-97760b292/" target="_blank">
+        <img src="https://img.shields.io/badge/💼 Let's_Connect_on_LinkedIn-F06292?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      <br><br>
+      <img src="https://media.giphy.com/media/10dU7AN7xsi1I4/giphy.gif" width="160" alt="Hello Blossom">
+    </td>
+  </tr>
+</table>
 
-## Achievements
-- The Winner, GenAI Hackathon Powered by Mitr Phol Group 2025 
-- The 2nd Runner-Up, KBTG Showcase & Project Pitching Day 2025
-- Honorable Mention, BIG's SEED Talent Camp by BIG C 2025
-- Honorable Mention, Krungsri UniVerse X KMITL Hackathon 2025
-- Honorable Mention, SuperAI Innovator 2025 
-- Top 9 Finalist, Axtra Mile Hackathon 2025 
-- Top 15 Finalist, SCGJWD Next Gen 2025 
-- Top 15 Finalist, Makathon Next Gen 2024 
-- Regional Finalist, Experiential Learning Program #2
-- Regional Finalist, Experiential Learning Program #3
----
 
-## 🌸 Let’s Bloom Together!
-<div align="center">
-
-<a href="https://www.linkedin.com/in/punchaya-chancharoen-97760b292/" target="_blank">
-  <img src="https://img.shields.io/badge/💼 Let's_Connect_on_LinkedIn-F06292?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-[![](https://visitcount.itsvg.in/api?id=Kaewkloaw&icon=3&color=9)](https://visitcount.itsvg.in)
-<p align="center">
-  <img src="https://media.giphy.com/media/10dU7AN7xsi1I4/giphy.gif" width="200" alt="Hello Blossom">
-</p>
-</div>
-
-<!-- 🌷 Proudly planted & grown by แก้วเกล้าคนสวย with tech and petals ✨ -->
+<!-- 🌷 Proudly planted & grown by Kaewkloaw with tech and petals ✨ -->
