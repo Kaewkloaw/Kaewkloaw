@@ -26,7 +26,7 @@
     <td valign="top" width="530">
       <h3 align="center">🏆 Achievements </h3>
       <ul>
-        <li>The Winner, GenAI Hackathon Powered by Mitr Phol Group 2025</li>
+        <li>The Winner, GenAI Hackathon by Mitr Phol Group 2025</li>
         <li>The 2nd Runner-Up, KBTG Showcase & Project Pitching Day 2025</li>
         <li>Honorable Mention, BIG's SEED Talent Camp by BIG C 2025</li>
         <li>Honorable Mention, Krungsri UniVerse X KMITL Hackathon 2025</li>
