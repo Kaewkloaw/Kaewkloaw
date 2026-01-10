@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🌷+Welcome+to+Kaewkloaw's+Garden+🌷;🌼+I'm+a+CPE+student+at+KMUTT+🌼;🌻+Interesting+About+AI+Biz+Dev+🌻;🌸+Let’s+Grow+Beautiful+Projects+Together!&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🌷+Welcome+to+Kaewkloaw's+Garden+🌷;🌼+I'm+a+CPE+student+at+KMUTT+🌼;🌻+Interesting+About+AI+Biz+Dev+🌻;🌸+Let’s+Grow+Beautiful+Projects+Together!&center=true&width=500&height=45&duration=3000">
 </p>
 <p align="center">🌼 A blooming tech enthusiast who blends code with creativity 💐</p>
 
