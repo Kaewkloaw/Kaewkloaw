@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🌷+Kaewkloaw+is+typing...;🌼+Building+Tech+with+Love+and+Joy!;🌸+Let’s+Grow+Beautiful+Projects+Together!&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🌷+Welcome+to+Kaewkloaw's+Garden+🌷;🌼+I'm+a+CPE+student+at+KMUTT+🌼;🌻+Interesting+About+AI+Biz+Dev+🌻;🌸+Let’s+Grow+Beautiful+Projects+Together!&center=true&width=500&height=45">
 </p>
 <p align="center">🌼 A blooming tech enthusiast who blends code with creativity 💐</p>
 
@@ -19,6 +19,7 @@
 ![Figma](https://img.shields.io/badge/Figma-%23F48FB1?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-%23FF80AB?style=for-the-badge&logo=adobexd&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-%23EC407A?style=for-the-badge&logo=robotframework&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%23F48FB1?style=for-the-badge&logo=docker&logoColor=white)
 </div>
 
 <table align="center">
