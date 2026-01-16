@@ -20,6 +20,8 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-%23FF80AB?style=for-the-badge&logo=adobexd&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-%23EC407A?style=for-the-badge&logo=robotframework&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%23F48FB1?style=for-the-badge&logo=docker&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-F8BBD0?style=for-the-badge&logo=qgis&logoColor=white)
+
 </div>
 
 <table align="center">
