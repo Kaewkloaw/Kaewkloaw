@@ -31,6 +31,7 @@
       <ul>
         <li>KX TED Fellow 2026</li>
         <li>The Winner, GenAI Hackathon by Mitr Phol Group 2025</li>
+        <li>The Winner, Demand Forecasting at Scale competition by EspresSO x AIAT 2026 </li>
         <li>The 2nd Runner-Up, KBTG Showcase & Project Pitching Day 2025</li>
         <li>Honorable Mention, BIG's SEED Talent Camp by BIG C 2025</li>
         <li>Honorable Mention, Krungsri UniVerse X KMITL Hackathon 2025</li>
