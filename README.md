@@ -45,7 +45,7 @@
     <td valign="top" width="300" align="center">
       <h3>🌸 Let’s Bloom Together! </h3>
       <a href="https://kaewkloaw-portfolio.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/💼 Let's_Connect_on_LinkedIn-F06292?style=for-the-badge&logo=portfolio&logoColor=white" />
+        <img src="https://img.shields.io/badge/💼 Let's_see_my_portfolio-F06292?style=for-the-badge&logo=portfolio&logoColor=white" />
       </a>
       <br><br>
       <img src="https://media.giphy.com/media/10dU7AN7xsi1I4/giphy.gif" width="160" alt="Hello Blossom">
