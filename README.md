@@ -29,18 +29,21 @@
     <td valign="top" width="530">
       <h3 align="center">🏆 Achievements </h3>
       <ul>
-        <li>KX TED Fellow 2026</li>
-        <li>The Winner, GenAI Hackathon by Mitr Phol Group 2025</li>
-        <li>The Winner, Demand Forecasting by EspresSO x AIAT 2026 </li>
-        <li>The 2nd Runner-Up, KBTG Showcase & Project Pitching Day 2025</li>
-        <li>Honorable Mention, BIG's SEED Talent Camp by BIG C 2025</li>
-        <li>Honorable Mention, Krungsri UniVerse X KMITL Hackathon 2025</li>
-        <li>Honorable Mention, SuperAI Innovator 2025</li>
-        <li>Top 9 Finalist, Axtra Mile Hackathon 2025</li>
-        <li>Top 15 Finalist, SCGJWD Next Gen 2025</li>
-        <li>Top 15 Finalist, Makathon Next Gen 2024</li>
-        <li>Regional Finalist, Experiential Learning Program #2</li>
-        <li>Regional Finalist, Experiential Learning Program #3</li>
+        <li>🥉 Bronze Medal — Super AI Engineer Season 6 (2026)</li>
+        <li>🎓 Jieranaiphet Scholarship (2026)</li>
+        <li>🌟 KX TED Fellow (2026)</li>
+        <li>🏆 Winner — Demand Forecasting Competition, EspresSO × AIAT (2026)</li>
+        <li>🏆 Winner — GenAI Hackathon, Mitr Phol Group (2025)</li>
+        <li>🥉 2nd Runner-Up — KBTG Showcase & Project Pitching Day (2025)</li>
+        <li>🏅 Honorable Mention — Krungsri UniVerse × KMITL Hackathon (2025)</li>
+        <li>🏅 Honorable Mention — BIG’s SEED Talent Camp, Big C (2025)</li>
+        <li>🏅 Honorable Mention — SuperAI Innovator (2025)</li>
+        <li>🎯 Top 9 Finalist — Axtra Mile Hackathon (2025)</li>
+        <li>🎯 Top 15 Finalist — SCGJWD Next Gen (2025)</li>
+        <li>🎯 Top 15 Finalist — Makathon Next Gen (2024)</li>
+        <li>🎯 Regional Finalist — Experiential Learning Program #3</li>
+        <li>🎯 Regional Finalist — Experiential Learning Program #2</li>
+        <li>🥉 Bronze Medal — International Mathematics Competition (2017)</li>
       </ul>
     </td>
     <td valign="top" width="300" align="center">
@@ -50,6 +53,7 @@
       </a>
       <br><br>
       <img src="https://media.giphy.com/media/10dU7AN7xsi1I4/giphy.gif" width="160" alt="Hello Blossom">
+      <p>🎓 <b>Second-Class Honors,</b> B.Eng. Computer Engineering, KMUTT (GPAX 3.50)</p>
     </td>
   </tr>
 </table>
