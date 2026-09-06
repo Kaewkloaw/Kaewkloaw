@@ -53,7 +53,8 @@
       </a>
       <br><br>
       <img src="https://media.giphy.com/media/10dU7AN7xsi1I4/giphy.gif" width="160" alt="Hello Blossom">
-      <p>🎓 <b>Second-Class Honors,</b> B.Eng. Computer Engineering, KMUTT (GPAX 3.50)</p>
+      <p>🎓 <b>Second-Class Honors,</b></p>
+      <p>B.Eng. Computer Engineering, KMUTT with GPAX 3.50</p>
     </td>
   </tr>
 </table>
