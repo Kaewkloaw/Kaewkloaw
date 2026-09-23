@@ -31,7 +31,7 @@
       <ul>
         <li>🥉 Bronze Medal — Super AI Engineer Season 6 (2026)</li>
         <li>🎓 Jieranaiphet Scholarship (2026)</li>
-        <li>🌟 KX TED Fellow (2026)</li>
+        <li>🌟 TED Fund Ideate 150k (2026)</li>
         <li>🏆 Winner — Demand Forecasting Competition, EspresSO × AIAT (2026)</li>
         <li>🏆 Winner — GenAI Hackathon, Mitr Phol Group (2025)</li>
         <li>🥉 2nd Runner-Up — KBTG Showcase & Project Pitching Day (2025)</li>
