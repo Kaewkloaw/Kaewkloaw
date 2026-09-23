@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🌷+Welcome+to+Kaewkloaw's+Garden+🌷;🌼+I'm+a+CPE+student+at+KMUTT+🌼;🌻+Interesting+About+AI+Biz+Dev+🌻;🌸+Let’s+Grow+Beautiful+Projects+Together!&center=true&width=500&height=45&duration=3000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🌷+Welcome+to+Kaewkloaw's+Garden+🌷;🌼+I'm+a+CPE+student+at+KMUTT+🌼;🌻+Interesting+About+AI+Biz+Dev+🌻;🌸+Let’s+Grow+Beautiful+Projects+Together!&center=true&width=500&height=45&duration=3000&color=EC407A">
 </p>
-<p align="center">🌼 A blooming tech enthusiast who blends code with creativity 💐</p>
+<!-- <p align="center">🌼 A blooming tech enthusiast who blends code with creativity 💐</p> -->
 
 <div align="center">
-  <h2 >💐 My Tech Garden</h2>
+  <!-- <h2 >💐 My Tech Garden</h2> -->
   
 ![C](https://img.shields.io/badge/C-%23F8BBD0?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%23F48FB1?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -67,6 +67,5 @@
     </td>
   </tr>
 </table>
-
 
 <!-- 🌷 Proudly planted & grown by Kaewkloaw with tech and petals ✨ -->
