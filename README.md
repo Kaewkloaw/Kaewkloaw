@@ -29,9 +29,11 @@
     <td valign="top" width="530">
       <h3 align="center">🏆 Achievements </h3>
       <ul>
+        <li>🌟 Accepted WiML Workshop @ NeurIPS (2026)</li>
+        <li>🌟 TED Fund Ideate 150k (2026)</li>
+        <li>🌟 Startup Thailand League Workshop (2026)</li>
         <li>🥉 Bronze Medal — Super AI Engineer Season 6 (2026)</li>
         <li>🎓 Jieranaiphet Scholarship (2026)</li>
-        <li>🌟 TED Fund Ideate 150k (2026)</li>
         <li>🏆 Winner — Demand Forecasting Competition, EspresSO × AIAT (2026)</li>
         <li>🏆 Winner — GenAI Hackathon, Mitr Phol Group (2025)</li>
         <li>🥉 2nd Runner-Up — KBTG Showcase & Project Pitching Day (2025)</li>
@@ -41,8 +43,8 @@
         <li>🎯 Top 9 Finalist — Axtra Mile Hackathon (2025)</li>
         <li>🎯 Top 15 Finalist — SCGJWD Next Gen (2025)</li>
         <li>🎯 Top 15 Finalist — Makathon Next Gen (2024)</li>
-        <li>🎯 Regional Finalist — Experiential Learning Program #3</li>
-        <li>🎯 Regional Finalist — Experiential Learning Program #2</li>
+        <li>🎯 Regional Finalist — Experiential Learning Program #3 (2025)</li>
+        <li>🎯 Regional Finalist — Experiential Learning Program #2 (2024)</li>
         <li>🥉 Bronze Medal — International Mathematics Competition (2017)</li>
       </ul>
     </td>
