@@ -1,4 +1,4 @@
-<p align="center">https://github.com/Kaewkloaw/Kaewkloaw/tree/main
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=🌷+Welcome+to+Kaewkloaw's+Garden+🌷;🌼+I+just+graduated+in+Computer+Engineering+🌼;🌻+Interesting+about+AI+Biz+Dev+🌻;🌸+Let’s+Grow+Beautiful+Projects+Together!&center=true&width=500&height=45&duration=3000&color=EC407A">
 </p>
 <!-- <p align="center">🌼 A blooming tech enthusiast who blends code with creativity 💐</p> -->
