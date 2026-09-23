@@ -24,6 +24,13 @@
 
 </div>
 
+<div align="center">
+  <img
+  src="https://raw.githubusercontent.com/Kaewkloaw/Kaewkloaw/output/github-contribution-grid-snake.svg"
+  alt="GitHub contribution snake animation"
+  />
+</div>
+
 <table align="center">
   <tr>
     <td valign="top" width="530">
